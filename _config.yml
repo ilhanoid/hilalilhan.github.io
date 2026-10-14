@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Hilal İlhan / Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Hilal İlhan"
+description              : &description "Hilal İlhan's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://hilalilhan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,11 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi! I am a senior Electrical & Electronics Engineering student at Boğaziçi University with international research experience
+and leadership in STEM communities. My interests include robotics, control systems, signal processing and cross-disciplinary
+engineering projects"
+  location         : "İstanbul, Türkiye"
+  employer         : "Boğaziçi University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hilalilhan47@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : ilhanoid
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/hilal-ilhan-b28904177?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
